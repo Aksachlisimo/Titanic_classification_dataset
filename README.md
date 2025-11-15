@@ -45,7 +45,7 @@ The project follows a complete ML pipeline — from data preprocessing and explo
 - Learned how model performance changes with different algorithms and hyperparameters.
 
 ## 📁 Notebook
-- [View Project Notebook](./titanic_classification_dataset.ipynb)
+- [View Project Notebook](./titanic_classification_.ipynb)
 
 ## 🛠️ Setup Instructions
 - Clone the repository: `git clone https://github.com/Aksachlisimo/titanic_classification_project.git`  
